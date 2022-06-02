@@ -57,13 +57,14 @@ This code is in no way affiliated with, authorized, maintained, sponsored or end
 
 ## Developers
 
-Public version - End Of Support
+Public version
 
 | Name | Github | Email | Telegram | Instagram |
 | ------ | ------ | ------ | ------ | ------ |
+| Tim Boode | [@EarthPulseAcademy](https://github.com/EarthPulseAcademy) | - | - | - |
 | Ramtin Jokar | [@Ramtinak](https://github.com/ramtinak) | - | - | - |
 | Ali Noshahi | [@NGame1](https://github.com/NGame1) | [NGame1390@hotmail.com](mailto:ngame1390@hotmail.com) | [NGameW](https://t.me/NGameW) | [alingame](https://instagram.com/alingame) |
 
 
 
-Iranian developers - (c) 2021 | Paeez 1400.
+Earth Pulse Academy - (c) 2021
